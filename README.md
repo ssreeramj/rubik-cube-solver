@@ -1,7 +1,7 @@
 <!-- PROJECT LOGO -->
 <p align="center">
   <a href="https://github.com/ssreeramj/rubik-cube-solver">
-    <img src="images/logo.jpeg" alt="Logo" width="140" height="120">
+    <img src="images/logo.jpeg" alt="Logo" width="200" height="150">
   </a>
 
   <h3 align="center">Rubik's Cube Solver</h3>
@@ -43,8 +43,8 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 <p align="center">
-  <img src="images/colors.png" width="300" />
-  <img src="images/solution.png" width="300" /> 
+  <img src="images/colors.png" width="400" />
+  <img src="images/solution.png" width="400" /> 
 </p>
 
 
