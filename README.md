@@ -43,10 +43,10 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 <p align="center">
-  <!-- <img src="[images/demo.gif](https://i.imgur.com/mhhy5sL.mp4)" alt="Demo"> -->
+  <img src="images/colors.png" width="300" />
+  <img src="images/solution.png" width="300" /> 
 </p>
 
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/ERFsKnT" data-context="false" ><a href="//imgur.com/a/ERFsKnT"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
 ### Built With
 
